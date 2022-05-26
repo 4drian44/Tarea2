@@ -286,4 +286,4 @@ Se pudo leer y estudiar, y completar ejemplos para una correcta comprension de l
 Se logró entender lo que es la energía y potencia, y poder realizar cálculos como la conversión de energía y caídas de voltaje.
 
 BIBLIOGRAFÍA
-Emplear normas APA.
+Floyd, Thomas (2007). Principios de circuitos electricos. Octava Edicion.
